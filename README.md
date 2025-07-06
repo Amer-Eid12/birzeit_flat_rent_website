@@ -37,42 +37,6 @@ A web-based flat rental system developed by **Amer Eid** for COMP334. The system
 
 ---
 
-## 📂 Project Structure
-
-```bash
-birzeit-flat-rent/
-├── css/
-│   └── style.css
-├── scripts/
-│   ├── login.php
-│   ├── logout.php
-│   ├── register_customer_step1.php
-│   └── offer_flat_submit.php
-├── pages/
-│   ├── home.php
-│   ├── search.php
-│   ├── flat_details.php
-│   └── view_rentals.php
-├── includes/
-│   ├── header.php
-│   ├── footer.php
-│   └── nav.php
-├── images/
-│   ├── logo.png
-│   └── flats/
-│       └── *.jpg
-├── dbconfig.inc.php
-└── README.md
-```
-
----
-
-## 📸 Screenshots
-
-> Include screenshots or GIFs here of the UI (flat search, rent page, user cards)
-
----
-
 ## 🚀 Features
 
 - Fully searchable flat catalog with filters
